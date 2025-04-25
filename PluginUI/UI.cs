@@ -6,7 +6,7 @@ using AutoCADInstrument;
 
 namespace PluginUI
 {
-    public partial class Form1 : Form
+    public partial class UI : Form
     {
         /// <summary>
         /// Экземпляр обёртки Wrapper.
@@ -16,7 +16,7 @@ namespace PluginUI
         /// <summary>
         /// Конструктор формы.
         /// </summary>
-        public Form1()
+        public UI()
         {
             InitializeComponent();
         }

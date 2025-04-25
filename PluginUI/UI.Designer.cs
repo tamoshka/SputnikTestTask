@@ -1,6 +1,6 @@
 ﻿namespace PluginUI
 {
-    partial class Form1
+    partial class UI
     {
         /// <summary>
         /// Обязательная переменная конструктора.
